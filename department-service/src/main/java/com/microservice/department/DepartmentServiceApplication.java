@@ -8,7 +8,7 @@ public class DepartmentServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DepartmentServiceApplication.class, args);
-		System.out.println("================ Department Application Started ================");
+		System.out.println("================ Application Department Starting  ================");
 	}
 
 }
